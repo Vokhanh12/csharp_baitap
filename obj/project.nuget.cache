@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZflkDdUyrnvn++yi0k95cJbVYbaUuvaIvWzHAhcdZtwIIxqFj/sOXSBxM2mjHn/EiL8STb/kozuccym4oY3Rhg==",
+  "success": true,
+  "projectFilePath": "/home/vokhanh/development/csharp/homeworks/homeworks.csproj",
+  "expectedPackageFiles": [
+    "/home/vokhanh/.nuget/packages/epplus/6.2.9/epplus.6.2.9.nupkg.sha512",
+    "/home/vokhanh/.nuget/packages/epplus.interfaces/6.1.1/epplus.interfaces.6.1.1.nupkg.sha512",
+    "/home/vokhanh/.nuget/packages/epplus.system.drawing/6.1.1/epplus.system.drawing.6.1.1.nupkg.sha512",
+    "/home/vokhanh/.nuget/packages/microsoft.extensions.configuration/6.0.0/microsoft.extensions.configuration.6.0.0.nupkg.sha512",
+    "/home/vokhanh/.nuget/packages/microsoft.extensions.configuration.abstractions/6.0.0/microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "/home/vokhanh/.nuget/packages/microsoft.extensions.configuration.fileextensions/6.0.0/microsoft.extensions.configuration.fileextensions.6.0.0.nupkg.sha512",
+    "/home/vokhanh/.nuget/packages/microsoft.extensions.configuration.json/6.0.0/microsoft.extensions.configuration.json.6.0.0.nupkg.sha512",
+    "/home/vokhanh/.nuget/packages/microsoft.extensions.fileproviders.abstractions/6.0.0/microsoft.extensions.fileproviders.abstractions.6.0.0.nupkg.sha512",
+    "/home/vokhanh/.nuget/packages/microsoft.extensions.fileproviders.physical/6.0.0/microsoft.extensions.fileproviders.physical.6.0.0.nupkg.sha512",
+    "/home/vokhanh/.nuget/packages/microsoft.extensions.filesystemglobbing/6.0.0/microsoft.extensions.filesystemglobbing.6.0.0.nupkg.sha512",
+    "/home/vokhanh/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "/home/vokhanh/.nuget/packages/microsoft.io.recyclablememorystream/2.2.1/microsoft.io.recyclablememorystream.2.2.1.nupkg.sha512",
+    "/home/vokhanh/.nuget/packages/microsoft.win32.systemevents/6.0.0/microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "/home/vokhanh/.nuget/packages/system.drawing.common/6.0.0/system.drawing.common.6.0.0.nupkg.sha512",
+    "/home/vokhanh/.nuget/packages/system.formats.asn1/6.0.0/system.formats.asn1.6.0.0.nupkg.sha512",
+    "/home/vokhanh/.nuget/packages/system.io.packaging/4.5.0/system.io.packaging.4.5.0.nupkg.sha512",
+    "/home/vokhanh/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/home/vokhanh/.nuget/packages/system.security.cryptography.pkcs/6.0.3/system.security.cryptography.pkcs.6.0.3.nupkg.sha512",
+    "/home/vokhanh/.nuget/packages/system.text.encoding.codepages/6.0.0/system.text.encoding.codepages.6.0.0.nupkg.sha512",
+    "/home/vokhanh/.nuget/packages/system.text.encodings.web/6.0.0/system.text.encodings.web.6.0.0.nupkg.sha512",
+    "/home/vokhanh/.nuget/packages/system.text.json/6.0.0/system.text.json.6.0.0.nupkg.sha512",
+    "/home/vokhanh/.nuget/packages/xceed.document.net/2.5.23177.2123/xceed.document.net.2.5.23177.2123.nupkg.sha512",
+    "/home/vokhanh/.nuget/packages/xceed.pdf/2.5.23177.2123/xceed.pdf.2.5.23177.2123.nupkg.sha512",
+    "/home/vokhanh/.nuget/packages/xceed.words.net/2.5.23177.2123/xceed.words.net.2.5.23177.2123.nupkg.sha512"
+  ],
+  "logs": []
+}

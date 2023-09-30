@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/vokhanh/development/csharp/homeworks/homeworks.csproj": {}
+  },
+  "projects": {
+    "/home/vokhanh/development/csharp/homeworks/homeworks.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/vokhanh/development/csharp/homeworks/homeworks.csproj",
+        "projectName": "homeworks",
+        "projectPath": "/home/vokhanh/development/csharp/homeworks/homeworks.csproj",
+        "packagesPath": "/home/vokhanh/.nuget/packages/",
+        "outputPath": "/home/vokhanh/development/csharp/homeworks/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/vokhanh/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "EPPlus": {
+              "target": "Package",
+              "version": "[6.2.9, )"
+            },
+            "Xceed.Words.NET": {
+              "target": "Package",
+              "version": "[2.5.23177.2123, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.122/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
